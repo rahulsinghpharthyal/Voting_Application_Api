@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "A voting application backend server built with Node.js and Express.",
   "main": "index.js",
-  "packageManager": "yarn@4.4.1",
+  "packageManager": "yarn@1.22.22",
   "type": "module",
   "scripts": {
     "start": "node index.js",
