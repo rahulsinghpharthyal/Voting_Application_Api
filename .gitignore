@@ -13,5 +13,5 @@
 .pnp.*
 .env
 /node_modules
-
+TASK.md
 
